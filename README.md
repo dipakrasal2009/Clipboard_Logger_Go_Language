@@ -30,7 +30,7 @@ This is a Clipboard History Manager written in Go, which allows users to monitor
 
     Clone this repository:
 
-git clone git@github.com:dipakrasal2009/Clipboard_Logger_Go_Language.git
+git clone git@github.com:dipakrasal2009/Clipboard_Logger_Go_Language.git</br>
 cd clipboard-history-manager
 
 <b>Install dependencies:</b>
